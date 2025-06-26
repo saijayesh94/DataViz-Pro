@@ -1,0 +1,14 @@
+pytz
+openai
+fastapi
+uvicorn
+pymongo
+pydantic
+mysqlclient
+python-dotenv
+mysql-connector-python
+boto3>=1.28.57
+litellm
+google-generativeai
+bcrypt
+python-jose
